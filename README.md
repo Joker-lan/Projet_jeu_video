@@ -1,4 +1,4 @@
-# [Nom de votre projet de jeu vidéo]
+# Le royaume d'Aethria
 
 ## ⚠️ Prérequis Important (Git LFS)
 
